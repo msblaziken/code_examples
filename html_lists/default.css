@@ -1,0 +1,38 @@
+body {
+
+    background-color: #022839;
+    font-family: Arial;
+    color: #FFFFFF;
+    font-size: 18px;
+
+}
+
+h2 {
+
+    background-color: #FF6600;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 1.5em;
+
+}
+
+#container {
+
+    width: 20%;
+    margin: 15px auto;
+
+}
+
+li {
+    color: #707070;
+    padding: 10px;
+}
+
+li:nth-child(odd) {
+    background-color: #FFFFFF;
+}
+
+li:nth-child(even) {
+    background-color: #EFEFEF;
+}
