@@ -1,6 +1,16 @@
+html, body, div, h2, ul, li{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
 body {
 
-    background-color: #022839;
+    background-color: #046694;
     font-family: Arial;
     color: #FFFFFF;
     font-size: 18px;
@@ -27,6 +37,7 @@ h2 {
 li {
     color: #707070;
     padding: 10px;
+    list-style: none;
 }
 
 li:nth-child(odd) {
